@@ -1,2 +1,2 @@
 # intro-git
-Intro Git and Github
+Intro Git and Github untuk Hacktoberfest
